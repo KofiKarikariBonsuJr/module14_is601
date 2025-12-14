@@ -13,6 +13,7 @@ The application follows a RESTful API design with proper separation of concerns:
 - Models define database structure
 - Schemas validate request/response data
 - Dependencies handle authentication and database sessions
+- lmao
 """
 
 from contextlib import asynccontextmanager  # Used for startup/shutdown events
